@@ -50,3 +50,8 @@ p a{color: #888;}
 	-webkit-transition: 0.15s left, 0.15s top;
  	transition: 0.15s left, 0.15s top;
 }
+#controls #solve{
+  opacity: 0;
+  margin-left: 150px;
+  
+}
